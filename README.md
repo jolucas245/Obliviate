@@ -1,4 +1,4 @@
-# Obliviate - uma Wiki do universo de Harry Potter <img align="left" width="10%" height="auto" title="HP" src="https://github.com/jolucas245/Obliviate/blob/master/repo-images/icon-hp.png?raw=true"> 
+# Obliviate - uma Wiki do universo de Harry Potter <img align="left" width="8%" height="auto" title="HP" src="https://github.com/jolucas245/Obliviate/blob/master/repo-images/icon-hp.png?raw=true"> 
 
 Este projeto é um aplicativo dedicado aos fãs do mundo mágico de Harry Potter, onde você pode explorar e descobrir informações sobre personagens, poções e feitiços que encantam e fascinam os seguidores desta saga épica.
 
